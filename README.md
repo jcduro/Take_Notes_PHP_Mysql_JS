@@ -1,4 +1,4 @@
-## 📒 Módulo de Notas – JcDuro DashBoard
+## 📒 Módulo de Notas
 
 Pequeño módulo del **dashboard** JcDuro para gestionar notas de forma rápida y centralizada, pensado como herramienta interna para registrar, consultar y actualizar información de notas desde una interfaz web sencilla.
 
