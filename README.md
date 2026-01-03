@@ -66,16 +66,10 @@ El objetivo es ofrecer una interfaz ligera para:
 proyectos/dashjc/
  └── notas/
      ├── notas.php          # Página principal del módulo
-     ├── crear_nota.php     # Formulario de creación (si aplica)
-     ├── editar_nota.php    # Formulario de edición
-     ├── eliminar_nota.php  # Acción de borrado
      ├── includes/
      │   ├── conexion.php   # Conexión a la base de datos
-     │   └── funciones.php  # Funciones auxiliares
      └── assets/
-         ├── css/
-         ├── js/
-         └── img/
+         ├── css/ notas.css
 ```
 ---
 
