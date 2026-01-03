@@ -8,10 +8,7 @@ Pequeño módulo del **dashboard** JcDuro para gestionar notas de forma rápida 
 - [Características](#-características)
 - [Tecnologías](#-tecnologías)
 - [Estructura del proyecto](#-estructura-del-proyecto)
-- [Preview](#-preview)
 - [Instalación y uso](#-instalación-y-uso)
-- [To‑Do](#-to-do)
-
 
 
 ## 📝 Descripción
@@ -40,12 +37,6 @@ El objetivo es ofrecer una interfaz ligera para:
 ## 📊 Lenguajes y Herramientas
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,php,mysql,github,vscode,windows,&theme=light&perline=8)](https://skillicons.dev)
-
-![Status](https://img.shields.io/badge/status-en%20desarrollo-yellow)
-![PHP](https://img.shields.io/badge/PHP-7.x-777bb3?logo=php)
-![MySQL](https://img.shields.io/badge/MySQL-DB-4479A1?logo=mysql)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-5-7952B3?logo=bootstrap)
-![License](https://img.shields.io/badge/license-Privado-lightgrey)
 
 --- 
 
